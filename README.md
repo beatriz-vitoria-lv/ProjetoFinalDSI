@@ -94,7 +94,7 @@ Não foi implementado banco de dados ou armazenamento permanente em arquivos, po
 
 ## Utilização de Inteligência Artificial
 
-Foi utilizada uma ferramenta de inteligência artificial como apoio durante o desenvolvimento do projeto, auxiliando na organização do README e elaboração dos testes.
+Foi utilizada uma ferramenta de inteligência artificial como apoio durante o desenvolvimento do projeto, auxiliando na organização do README, compilação no Github e elaboração dos testes.
 
 ## Considerações Finais
 
